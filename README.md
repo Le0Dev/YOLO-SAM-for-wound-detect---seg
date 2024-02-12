@@ -1,4 +1,4 @@
-# YOLO-SAM-for-wound-detect-seg
+# YOLO-SAM-wound-detect-and-segment
 
 
 
