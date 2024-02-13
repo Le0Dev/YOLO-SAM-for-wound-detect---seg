@@ -1,6 +1,6 @@
 # You Only Segment Any Wound
 ## YOLO-SAM pipeline to detect and segment wounds
-
+ 
 
 Fine tune YOLOv8: [https://colab.research.google.com/drive/1rJNFmmyRaBLHbPJyEKkq39Ky7z1cA7Iv?usp=sharing](https://colab.research.google.com/drive/1_itH0qYtWsUZlSCfTCkl0VYKSU8BAVDR?usp=sharing)
 
