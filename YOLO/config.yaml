@@ -1,0 +1,9 @@
+
+path: './' # dataset root dir
+train: images/train/  # train images (relative to 'path')
+val: images/valid/  # val images (relative to 'path')
+
+# Classes
+nc: 1  # number of classes
+names:
+  0: wound
