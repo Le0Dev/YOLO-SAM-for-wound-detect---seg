@@ -1,7 +1,7 @@
 # You Only Segment Any Wound
 
 YOLO-SAM pipeline to detect and segment wounds
-[YOSAW inference colab](https://colab.research.google.com/drive/1ffP4rRIwIyaHgDDoNJMheDxJRUtb-heh?usp=drive_link)
+[YOSAW inference on colab](https://colab.research.google.com/drive/1ffP4rRIwIyaHgDDoNJMheDxJRUtb-heh?usp=drive_link)
 
 Some examples of good predictions on hard cases (left is YOLOv8 output and right is SAM output using YOLO's bounding boxes as prompt)
 
